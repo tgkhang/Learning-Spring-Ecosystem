@@ -9,7 +9,7 @@ import com.kangaroo.database.db_demo.jdbc.PersonJdbcDao;
 
 import lombok.extern.slf4j.Slf4j;
 
-@SpringBootApplication
+// @SpringBootApplication
 @Slf4j
 public class DbDemoApplication implements CommandLineRunner {
 
